@@ -14,7 +14,17 @@ This repository contains the code and experiments for evaluating the impact of v
 
 ## Cite
 
+- the paper is currently **in press** ([BRACIS 2026](https://bracis.sbc.org.br/2026/)).
+
 ```bibtex
+@inproceedings{accorsi2026tokenizer,
+  title={Tokenizer Impact on Multilingual to Portuguese Transfer in ModernBERT-Based Models},
+  author={Accorsi, Arthur Turcati and do Amaral, Gustavo Losch and Gomes, Carlos Falcão de Azevedo and Griebler, Dalvan Jair},
+  booktitle={Brazilian Conference on Intelligent Systems},
+  pages={},
+  year={in press},
+  organization={Springer}
+}
 ```
 
 ## Project Structure
